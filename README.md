@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/superstore-usa-data-analysis.git
+git clone  https://github.com/PranjalF-5/Exploratory-Data-Analysis
 cd superstore-usa-data-analysis
 Install the required libraries:
 
