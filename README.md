@@ -1,5 +1,5 @@
 Super Store USA Data Analysis
-This project contains a comprehensive data analysis of a Super Store based in the USA. The dataset was obtained from Kaggle and analyzed using Python in Jupyter Notebook. The analysis includes various visualizations created using Numpy, Pandas, and Seaborn.
+This project contains a comprehensive data analysis of a Super Store based in the USA. Analyzed using Python in Jupyter Notebook. The analysis includes various visualizations created using Numpy, Pandas, and Seaborn.
 ![image](https://github.com/user-attachments/assets/b5b81abd-8655-4d3a-b0be-ea72721a8d4d)
 
 
@@ -16,7 +16,7 @@ Introduction
 This project aims to perform an in-depth analysis of a Super Store's dataset to uncover insights and patterns in the data. The analysis covers various aspects such as sales performance, customer segmentation, and product categories.
 
 Dataset
-The dataset used in this project is obtained from Kaggle. It contains information on sales transactions, customer segments, product categories, and more.
+It contains information on sales transactions, customer segments, product categories, and more.
 
 Installation
 To run this project, you need to have Python and Jupyter Notebook installed on your system. Additionally, you need to install the required Python libraries.
